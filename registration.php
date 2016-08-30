@@ -10,6 +10,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'eusonlito_es_es',
+    'angeldm_es_es',
     __DIR__
 );
